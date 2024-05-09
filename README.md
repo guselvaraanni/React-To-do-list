@@ -4,11 +4,12 @@ My To-do-list using react
 Default datas are loaded from the server 
 ![image](https://github.com/guselvaraanni/React-To-do-list/assets/158258133/6496f2e0-afe9-487d-a318-e1dab92ab63e)
 
-The server was create as dummy server with default json values using the command we cam run the server "npx json-server -p 3500 -w data/db.json"
+The server was created as dummy server with default json values using the command we cam run the server "npx json-server -p 3500 -w data/db.json"
 ![image](https://github.com/guselvaraanni/React-To-do-list/assets/158258133/a4adc877-bf48-49a6-a6c5-a5f5374eb1a7)
 
-
+we can add mnew item to the list and tick the completed work
 ![image](https://github.com/guselvaraanni/React-To-do-list/assets/158258133/bcb76f17-e4b8-49cc-9afa-6a5c71263f0c)
+
 Search option available
 ![image](https://github.com/guselvaraanni/React-To-do-list/assets/158258133/6c35b5f1-579d-4108-b36e-1e6adbf77528)
 
