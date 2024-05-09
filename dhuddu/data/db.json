@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked":false,
+            "item":"read books"
+        },
+        {
+            "id":2,
+            "checked":false,
+            "item":"wake up early"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"Eat healthy"
+        },
+        {
+            "id":4,
+            "checked":false,
+            "item":"enjoy"
+        }
+    ]
+}
